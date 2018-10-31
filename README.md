@@ -1,3 +1,4 @@
+![alt text](https://github.com/andrewtdunn/startrek2048.github.io/blob/gh-pages/st2048.png "st 2048")
 
 [Live site](http://andrewtdunn.github.io/project-2048.html)
 
