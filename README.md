@@ -1,3 +1,7 @@
+
+[Live site](http://andrewtdunn.github.io/project-2048.html)
+
+
 # Make 2048
 A Udacity version of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
 
